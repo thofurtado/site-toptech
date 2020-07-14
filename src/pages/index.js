@@ -7,8 +7,8 @@ function Index(){
                     <h1 class="title">
                         TOPTECH
                     </h1>
-                    <h2 class="subtitle has-text-warning">
-                        Suporte
+                    <h2 class="subtitle has-text-success">
+                        Downloads
                     </h2>
                 </div>
             </div>
@@ -16,9 +16,9 @@ function Index(){
                 <nav class="tabs is-boxed is-fullwidth">
                     <div class="container">
                         <ul>
-                            <li><a href="https://download.anydesk.com/AnyDesk.exe?_ga=2.204996502.74908729.1594742025-1278563154.1594742025">Anydesk</a></li>
-                            <li><a href="http://www.sistemaathos.com.br/files/suporteremoto.exe">Team Viewer</a></li>
-                            <li><a href="https://www.win-rar.com/fileadmin/winrar-versions/winrar/wrar591.exe">Winrar</a></li>
+                            <li><a class="has-text-danger" href="https://docs.google.com/uc?export=download&id=1Rvzaz_3cFzOKCmtgjapv3Zo2CVG95TK2">Anydesk</a></li>
+                            <li><a class="has-text-link" href="https://docs.google.com/uc?export=download&id=15MFO8E-tljFKCuSzyGTCq1QgNfz55dD_">Team Viewer</a></li>
+                            <li><a class="has-text-warning" href="https://docs.google.com/uc?export=download&id=1_29ZWm_FCHBM4JNcPkuFUfTvJJuN-ZRU">Winrar</a></li>
                         </ul>
                     </div>
                 </nav>
