@@ -8,8 +8,8 @@ h1 {
 }
 
 .text-flicker-in-glow {
-	-webkit-animation: text-flicker-in-glow 2s linear both;
-	        animation: text-flicker-in-glow 2s linear both;
+	-webkit-animation: text-flicker-in-glow 4s linear both;
+	        animation: text-flicker-in-glow 4s linear both;
 }
 .roll-in-left {
 	-webkit-animation: roll-in-left 1s ease-out both;
