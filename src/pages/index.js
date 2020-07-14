@@ -7,7 +7,7 @@ function Index(){
                     <h1 class="title has-text-weight-medium has-text-white text-flicker-in-glow">
                         TOPTECH
                     </h1>
-                    <h2 class="subtitle has-text-success">
+                    <h2 class="subtitle has-text-success roll-in-top">
                         Downloads
                     </h2>
                 </div>
