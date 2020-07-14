@@ -4,7 +4,7 @@ function Index(){
         <section class="hero is-black is-fullheight">
               <div class="hero-body">
                 <div class="container has-text-centered">
-                    <h1 class="title has-text-weight-medium has-text-white text-flicker-in-glow">
+                    <h1 class="title text-flicker-in-glow">
                         TOPTECH
                     </h1>
                     <h2 class="subtitle has-text-success roll-in-top">
