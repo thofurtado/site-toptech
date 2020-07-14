@@ -2,21 +2,9 @@
 function Index(){
     return(
         <section class="hero is-black is-fullheight">
-            <div class="hero-head">
-                <header class="navbar">
-                    <div class="container">
-                        <div class="navbar-brand">
-                            <a class="navbar-item">
-                                <img src="logo.png" alt="Logo" />
-                            </a>
-                        </div>
-                    </div>
-                </header>
-            </div>
-
               <div class="hero-body">
                 <div class="container has-text-centered">
-                    <h1 class="title has-text-danger">
+                    <h1 class="title">
                         TOPTECH
                     </h1>
                     <h2 class="subtitle has-text-warning">
