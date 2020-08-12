@@ -46,7 +46,7 @@ function Index(){
                         <ul>
                             <li><a class="roll-in-left has-text-danger" href="https://apptoptech.vercel.app/Suporte_Anydesk.exe">Anydesk</a></li>
                             <li><a class="roll-in-bottom has-text-link" href="https://apptoptech.vercel.app/Suporte_TeamViewer.exe">Team Viewer</a></li>
-                            <li><a class="roll-in-right has-text-warning" href="https://apptoptech.vercel.app/Winrar.exe">Winrar</a></li>
+                            <li><a class="roll-in-right has-text-warning" href="https://drive.google.com/drive/folders/1dLI18zY_VfuP0fZQKiPCywj7O1yXQSI3?usp=sharing">Google Drive</a></li>
                         </ul>
                     </div>
                 </nav>
