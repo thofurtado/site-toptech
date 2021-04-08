@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --white: #FFF;
+    --gray-50: #E0E0E0;
+    --gray-200: #7C7B7B;
+    --gray-350: #524E4E;
+    --gray-500: #3E3C3C;
+    --gray-650: #333030;
+    --gray-800: #302C2D;
+    --black: #1f1c1d;
+    --green: #19D938;
+    --orange: #FF7D05;
+    --red: #FF0545;
+    --blue: #0034E3;
+    --yellow: #E1FF19;
+}
+
+@media(max-width: 1080px) {
+    html {
+        font-size: 93.75%;
+    }
+}
+
+@media(max-width: 720px) {
+    html {
+        font-size: 87.5%;
+    }
+}
+
+body {
+    background: var(--gray-800);
+    color: var(--white);
+}
+
+h1,
+h2,
+h3 {
+    font: 700 2rem "BioRhyme", sans-serif;
+}
+
+body,
+input,
+textarea,
+select,
+button {
+    font: 400 1rem "Nunito", sans-serif;
+}
+
+button {
+    cursor: pointer;
+}
+
+a {
+    color: inherit; //assumi a cor do elemento pai
+    text-decoration: none;
+}

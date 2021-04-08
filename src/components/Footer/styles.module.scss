@@ -1,0 +1,28 @@
+.footerContainer {
+    height: 5rem;
+    background: var(--black);
+}
+
+.footerContent {
+    max-width: 1120px;
+    height: 5rem;
+    margin: 0 auto;
+    padding: 0 1rem;
+    display: flex;
+    justify-content: space-between;
+    color: var(--orange);
+    div {
+        display: flex;
+        align-items: baseline;
+        justify-content: center;
+        flex-direction: column;
+        height: 5rem;
+        svg {
+            margin-right: 1rem;
+        }
+    }
+    transition: filter(0.3s);
+    a:hover {
+        filter: brightness(0.8)
+    }
+}
